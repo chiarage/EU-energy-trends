@@ -9,16 +9,16 @@ https://lookerstudio.google.com/u/0/reporting/edc31d7a-8afa-4048-be84-9c40fdcaf7
 
 ### Datasets
 1. Sustainable Energy Investment Forecast Dataset
-- Source: Kaggle https://www.kaggle.com/datasets/zelihayb/sustainable-energy-investment-forecast-dataset/data
-- Description: Contains key indicators for sustainable energy and environmental analysis, including per capita CO₂ emissions, energy consumption, reliance on energy sources (coal, hydro, natural gas, nuclear, oil, renewables), renewable electricity production, energy efficiency, total energy use, and demographic/spatial data (population density, total population, land area).
-- Scope in this project: Only EU member countries from 2010 to 2020.
+  - Source: Kaggle https://www.kaggle.com/datasets/zelihayb/sustainable-energy-investment-forecast-dataset/data
+  - Description: Contains key indicators for sustainable energy and environmental analysis, including per capita CO₂ emissions, energy consumption, reliance on energy sources (coal, hydro, natural gas, nuclear, oil, renewables), renewable electricity production, energy efficiency, total energy use, and demographic/spatial data (population density, total population, land area).
+  - Scope in this project: Only EU member countries from 2010 to 2020.
 
 2. Invested in Renewables – The Only Way Forward
-- Source: European Investment Bank https://www.eib.org/en/essays/europe-energy-transition-renewable
-- Description: Provides two datasets:
-a. Investment in the energy transition ($ billion), by region: Covers renewable energy, energy storage, power networks, electrified transport, clean shipping and industry, carbon capture, hydrogen, and nuclear energy.
-b. Investment in renewable energy ($ billion), by region: Covers solar, wind, hydroelectric, and other renewable sources.
-- Scope in this project: Investments from 2014 to 2023. Investments between 2010–2014 are not reported due to lack of data.
+  - Source: European Investment Bank https://www.eib.org/en/essays/europe-energy-transition-renewable
+  - Description: Provides two datasets:
+    a. Investment in the energy transition ($ billion), by region: Covers renewable energy, energy storage, power networks, electrified transport, clean shipping and industry, carbon capture, hydrogen, and nuclear energy.
+    b. Investment in renewable energy ($ billion), by region: Covers solar, wind, hydroelectric, and other renewable sources.
+  - Scope in this project: Investments from 2014 to 2023. Investments between 2010–2014 are not reported due to lack of data.
 
 
 ## Authors
