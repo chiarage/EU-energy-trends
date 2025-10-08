@@ -17,6 +17,7 @@ https://lookerstudio.google.com/u/0/reporting/edc31d7a-8afa-4048-be84-9c40fdcaf7
   - Source: European Investment Bank https://www.eib.org/en/essays/europe-energy-transition-renewable
   - Description: Provides two datasets:
     a. Investment in the energy transition ($ billion), by region: Covers renewable energy, energy storage, power networks, electrified transport, clean shipping and industry, carbon capture, hydrogen, and nuclear energy.
+    
     b. Investment in renewable energy ($ billion), by region: Covers solar, wind, hydroelectric, and other renewable sources.
   - Scope in this project: Investments from 2014 to 2023. Investments between 2010–2014 are not reported due to lack of data.
 
