@@ -22,6 +22,14 @@ https://lookerstudio.google.com/u/0/reporting/edc31d7a-8afa-4048-be84-9c40fdcaf7
     b. Investment in renewable energy ($ billion), by region: Covers solar, wind, hydroelectric, and other renewable sources.
   - Scope in this project: Investments from 2014 to 2023. Investments between 2010–2014 are not reported due to lack of data.
 
+## How to Use the Project
+1. Explore the Dashboard: Open the Looker Studio Dashboard to interact with visualizations and explore trends.
+2. Download Datasets: Use the links below to obtain the original datasets for further analysis:
+   - Sustainable Energy Investment Forecast Dataset (Kaggle)
+     https://www.kaggle.com/datasets/zelihayb/sustainable-energy-investment-forecast-dataset/data
+   - Invested in Renewables – The Only Way Forward (EIB)
+     https://www.eib.org/en/essays/europe-energy-transition-renewable
+3. Read the Report: Open EU Energy Trends Report for methodology, preprocessing details, and insights from the analysis.
 
 ## Authors
 - Ilaria Coccollone – i.coccollone@campus.unimib.it
